@@ -5,17 +5,17 @@ class App extends React.Component {
   state = { 
     tasks:[
       {
-        task:'Organize Garage',
+        task:'Work on React Project',
         id:1528817077286,
         completed:false
     },
     {
-      task:'Bake Cookies',
+      task:'Take a Break',
       id:1528817084358,
       completed:false
     },
     {
-      task:'Eat More Pizza',
+      task:'Learn more React',
       id:1528817084359,
       completed:false
     }
